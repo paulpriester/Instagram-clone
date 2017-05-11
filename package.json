@@ -1,0 +1,19 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "By Paul Priester and Daryl Holman Jr.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulpriester/Instagram-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulpriester/Instagram-clone/issues"
+  },
+  "homepage": "https://github.com/paulpriester/Instagram-clone#readme"
+}
